@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .cz{
+            background: orange;
+            color:#fff;
+        }
+    </style>
+</head>
+<body>
+    <select class="cz">
+        <option>青岛</option>
+        <option>北京</option>
+        <option>上海</option>
+        <option>广州</option>
+        <option>天津</option>
+        <option>沈阳</option>
+        <option>大连</option>
+        <option>重庆</option>
+        <option>成都</option>
+        <option>烟台</option>
+        <option>深圳</option>
+      </select>
+
+</body>
+</html>
